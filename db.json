@@ -2,4 +2,5 @@
                 "name": "OutputType",
                 "entity": "OutputType",
                 "array": true
-            }}
+            },
+"test": 10}
