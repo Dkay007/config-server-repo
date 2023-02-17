@@ -3,5 +3,9 @@
                 "entity": "OutputType",
                 "array": true
             },
-"test": "x"
+"test": {
+                "name": "OutputType",
+                "entity": "OutputType",
+                "array": true
+            }
 }
