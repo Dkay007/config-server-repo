@@ -1,4 +1,8 @@
-{
+{"Test2": {
+                "name": "OutputType",
+                "entity": "OutputType",
+                "array": true
+            },
 "Test": {
                 "name": "OutputType",
                 "entity": "OutputType",
